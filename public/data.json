@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Portable Mini Fan",
+    "brand": "CoolBreeze",
+    "price": 12,
+    "rating": 4.4,
+    "stock": 35,
+    "description": "Handheld rechargeable fan with 3 speeds for hot summer days.",
+    "image": "https://i.ibb.co/FbGcCKvS/pexels-fox-58267-5850342.jpg",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Quick-Dry Swim Trunks",
+    "brand": "WaveRider",
+    "price": 25,
+    "rating": 4.5,
+    "stock": 25,
+    "description": "Comfortable and quick-drying swim trunks for beach or pool.",
+    "image": "https://i.ibb.co/h1t8g75T/man-wearing-blue-shorts-close-up.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 3,
+    "name": "Oversized Beach Towel",
+    "brand": "SandyShore",
+    "price": 18,
+    "rating": 4.8,
+    "stock": 15,
+    "description": "Soft, oversized cotton towel with vibrant summer patterns.",
+    "image": "https://i.ibb.co/MyB178n8/hat-blanket-beach.jpg",
+    "category": "Beach Essential"
+  },
+  {
+    "id": 4,
+    "name": "SPF 50 Sunscreen Lotion",
+    "brand": "SunGuard",
+    "price": 12,
+    "rating": 4.9,
+    "stock": 50,
+    "description": "Water-resistant broad-spectrum SPF 50 sunscreen for all-day protection.",
+    "image": "https://i.ibb.co/VY1B5xBM/GHp-Dm-YTr-QQU6-V32-EJc8-BQb9-Etu-EW9-Kc6-Sc-ILw-VZg.jpg",
+    "category": "Skincare"
+  },
+  {
+    "id": 5,
+    "name": "Cozy Flip Flops",
+    "brand": "FootLoft",
+    "price": 10,
+    "rating": 4.3,
+    "stock": 40,
+    "description": "Lightweight, durable flip flops with cushioned footbed.",
+    "image": "https://i.ibb.co/9kP5cy6m/pexels-ivett-34447681.jpg",
+    "category": "Footwear"
+  },
+  {
+    "id": 6,
+    "name": "Wide-Brim Summer Hat",
+    "brand": "BreezyCap",
+    "price": 20,
+    "rating": 4.6,
+    "stock": 12,
+    "description": "Breathable straw hat with UPF 50+ protection for sunny days.",
+    "image": "https://i.ibb.co/0jycV7C2/pexels-automnenoble-5458072.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 7,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Stylish UV protection sunglasses perfect for summer outings.",
+    "image": "https://i.ibb.co/bRzjwwbd/close-up-picture-hat-glasses-beach.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 8,
+    "name": "Insulated Water Bottle",
+    "brand": "HydroSip",
+    "price": 22,
+    "rating": 4.8,
+    "stock": 20,
+    "description": "Keeps drinks cold for 24 hours, stainless steel, leak-proof.",
+    "image": "https://i.ibb.co/gZsGwHjj/pexels-duncan-van-gortel-1637524727-31511254.jpg",
+    "category": "Drinkware"
+  },
+  {
+    "id": 9,
+    "name": "Summer Floral Dress",
+    "brand": "BohoBreeze",
+    "price": 35,
+    "rating": 4.6,
+    "stock": 18,
+    "description": "Lightweight, breathable floral print dress perfect for beach parties.",
+    "image": "https://i.ibb.co/tp9pfZRH/pexels-byblaan-34942667.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 10,
+    "name": "Cooling Towel",
+    "brand": "ArcticTech",
+    "price": 9,
+    "rating": 4.5,
+    "stock": 60,
+    "description": "Instant cooling when wet, ideal for sports and outdoor activities.",
+    "image": "https://i.ibb.co/QLzs9v0/pexels-cottonbro-5274796.jpg",
+    "category": "Cooling"
+  }
+]
